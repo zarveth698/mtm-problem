@@ -26,5 +26,3 @@ Use realistic demo data. Add navigation, cards, tables, status indicators, and i
 - Run and test the application.
 - Report created/modified files and test results.
 - Do not start Phase 2 until I approve.
-
-Git commit: `Phase 1 - Streamlit UI`
